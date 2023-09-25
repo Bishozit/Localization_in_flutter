@@ -1,16 +1,7 @@
-# localization
+Using pub: flutter_localizations, intl, flutter_lints
+flutter:
+  uses-material-design: true
+  generate: true
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/Bishozit/Localization_in_flutter/assets/110930138/f2e91627-15b7-43bb-9787-b6bbe47b250a)
+![image](https://github.com/Bishozit/Localization_in_flutter/assets/110930138/56b2bdcd-7cc4-4316-ba71-f81158ce53af)
