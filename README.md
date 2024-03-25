@@ -1,4 +1,4 @@
-Using pub: flutter_localizations, intl,  flutter_lints
+Using pub: flutter_localizations, intl, flutter_lints
 
 flutter:
   uses-material-design: true, 
